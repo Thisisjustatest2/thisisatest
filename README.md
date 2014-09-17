@@ -4,6 +4,8 @@ thisisatest
 this is another test
 --------------------
 
+I'm wanting to try mergetool
+
 *This is another test
 
 
